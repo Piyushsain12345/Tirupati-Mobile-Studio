@@ -1,8 +1,7 @@
 Tirupati Mobile Studio is a modern and responsive e-commerce website designed for showcasing and selling mobile phones, accessories, and electronic gadgets online.
 The website provides a clean user interface where users can explore products, view details, and enjoy a smooth browsing experience.
-https://tirupati-mobile-studio.vercel.app/#android Live Link website
 This project is developed using modern frontend technologies to ensure fast performance, responsive design, and an interactive user experience.
-
+https://tirupati-mobile-studio.vercel.app/#android Live Link website
 Technologies Used
 Frontend Technologies
 React.js – For building interactive user interfaces using components.
