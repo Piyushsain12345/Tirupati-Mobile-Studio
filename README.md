@@ -19,6 +19,8 @@ Component-based architecture
 Easy navigation
 Clean and organized code structure
 Project Folder Structure
+
+
 src/
  ├── assets/
  ├── components/
